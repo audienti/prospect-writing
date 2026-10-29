@@ -1,0 +1,10 @@
+{
+  "name": "prospect-writing",
+  "version": "0.1.0",
+  "description": "Prepare evidence-grounded outreach drafts for Operator review, without sending.",
+  "homepage": "https://github.com/audienti/prospect-writing",
+  "repository": "https://github.com/audienti/prospect-writing",
+  "author": {
+    "name": "Audienti"
+  }
+}
